@@ -45,3 +45,7 @@ maestro
 .DS_Store
 
 *.pyc
+
+# Jetbrain
+.idea
+cmake-build-*
